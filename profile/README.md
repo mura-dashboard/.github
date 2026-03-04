@@ -1,6 +1,6 @@
-# Mura Dashboard - A Flaky Test Dashboard
+# Mura Dashboard
 
-**Mura Dashboard** is an open-source flaky test dashboard that helps teams track, visualize, and reduce flaky tests across their projects.
+**Mura Dashboard** is an open-source flaky test dashboard that helps teams track, visualize and reduce flaky tests across their projects.
 
 Mura (ムラ) is the japanese word for "unevenness" / "irregularity" and should reflect "flakyness" as a nice and short project name.
 
